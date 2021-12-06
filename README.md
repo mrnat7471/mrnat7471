@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**mrnat7471/mrnat7471** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 I’m currently working on:
+- Prime Logistics' Drivers Hub
+- Prime Logistics' Discord Bot
+- Freelance Work
+#### 🌱 I’m currently learning:
+- Discordjs
+- c++
+- c#
+#### 💬 Ask me about:
+I am Nathan, currently a software developer, looking to run my own business in the future.
+#### 📫 How to reach me:
+Contact https://nathan7471.dev
+### 😄 Pronouns: 
+He/Him
+🛠 Languages and technology I use:
+- Python
+- Javascript
+- CSS
+- HTML
+- NuxtJS | Vue
+- Django
