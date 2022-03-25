@@ -14,12 +14,13 @@ Contact https://onnibyte.tech or DM me on Discord at: Nathan7471#7471
 I am available for support and paid projects. Contact me and let me see how I can help you.
 ### 😄 Pronouns: 
 He/Him
-🛠 Languages & technology::
+🛠 Languages & technology:
 - Python
 - Javascript
 - CSS
 - HTML
 - Vue
+
 🛠 Frameworks:
 - Django
 - React
