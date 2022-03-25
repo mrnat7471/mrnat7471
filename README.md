@@ -1,23 +1,27 @@
-### Hi there 👋
+### Hello Humans 👋
 
 #### 🔭 I’m currently working on:
 - Prime Logistics' Drivers Hub
 - Prime Logistics' Discord Bot
-- Freelance Work
 #### 🌱 I’m currently learning:
-- Discordjs
+- Rust
 - c++
 - c#
 #### 💬 Ask me about:
-I am Nathan, currently a software developer, looking to run my own business in the future.
+I am Nathan, currently Founder & Director at Omnibyte Technologies Limited. I am also an Apprentice Software Developer.
 #### 📫 How to reach me:
-Contact https://nathan7471.dev
+Contact https://onnibyte.tech or DM me on Discord at: Nathan7471#7471  
+I am available for support and paid projects. Contact me and let me see how I can help you.
 ### 😄 Pronouns: 
 He/Him
-🛠 Languages and technology I use:
+🛠 Languages & technology::
 - Python
 - Javascript
 - CSS
 - HTML
-- NuxtJS | Vue
+- Vue
+🛠 Frameworks:
 - Django
+- React
+- NuxtJS
+- NextJS
