@@ -1,10 +1,12 @@
 ### Hello Humans 👋
 
-#### 🔭 I’m currently working on:
+#### 🔭 I’m currently working on (All these Project are ran through my company, Omnibyte Technologies Limited):
 - Prime Logistics' Drivers Hub
 - Prime Logistics' Discord Bot
+- TrackSim - Job Logging Solution for Euro Truck Simulator 2 & American Truck Simulator
 #### 🌱 I’m currently learning:
 - Rust
+- C++
 #### 💬 Ask me about:
 I am Nathan, the Co-founder & Director at Omnibyte Technologies Limited. I am also an Software Developer for Roco Technology Group.
 #### 📫 How to reach me:
