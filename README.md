@@ -18,12 +18,17 @@ He/Him
 🛠 Languages & technology:
 - Python
 - Javascript
+- Typescript
 - CSS
 - HTML
 - Vue
 
 🛠 Frameworks:
 - Django
+- Quik
+- FastAPI
 - React
 - NuxtJS
 - NextJS
+- Electron
+- Tauri
