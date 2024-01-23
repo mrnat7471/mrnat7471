@@ -9,13 +9,13 @@ I am Nathan, the Co-founder & Director at Omnibyte Technologies Limited. I am al
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
-#### 💬 Social Media:
+### 💬 Social Media:
 [![Discord](https://shields.io/badge/Discord-5865F2?logo=Discord&logoColor=FFF&style=for-the-badge)](https://discord.com/channels/@me/510238066829688832)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/nathan-thomas-powell)
 [![CV Website](https://img.shields.io/badge/CV%20Website-000?style=for-the-badge)](https://nathanpowell.uk)
 [![Website](https://img.shields.io/badge/Omnibyte%20Website-7D56F6?style=for-the-badge)](https://omnibyte.tech)
 
-#### 🔭 I’m currently working on:
+### 🔭 I’m currently working on:
 - Prime Logistics' Drivers Hub (via Omnibyte Technologies Limited)
 - Prime Logistics' Discord Bot (via Omnibyte Technologies Limited)
 - TrackSim - Job Logging Solution for Euro Truck Simulator 2 & American Truck Simulator (via Omnibyte Technologies Limited)
@@ -41,7 +41,7 @@ I am Nathan, the Co-founder & Director at Omnibyte Technologies Limited. I am al
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-#### 🛠 Frameworks:
+##### 🛠 Frameworks:
 ![](https://shields.io/badge/Django-092E20?logo=Django&logoColor=FFF&style=for-the-badge)
 ![](https://shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=FFF&style=for-the-badge)
 ![](https://shields.io/badge/React-61DAFB?logo=React&logoColor=000&style=for-the-badge)
@@ -54,7 +54,7 @@ I am Nathan, the Co-founder & Director at Omnibyte Technologies Limited. I am al
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### 🛠 Other:
+##### 🛠 Other:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
