@@ -10,7 +10,7 @@ I am Nathan, the Co-founder & Director at Omnibyte Technologies Limited.
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
 ### 💬 Social Media:
-[![Discord](https://shields.io/badge/Discord-5865F2?logo=Discord&logoColor=FFF&style=for-the-badge)](discord://-/users/510238066829688832)
+[![Discord](https://shields.io/badge/Discord-5865F2?logo=Discord&logoColor=FFF&style=for-the-badge)](https://discord.com/channels/@me/510238066829688832)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/nathan-thomas-powell)
 [![CV Website](https://img.shields.io/badge/CV%20Website-000?style=for-the-badge)](https://nathanpowell.uk)
 [![Website](https://img.shields.io/badge/Omnibyte%20Website-7D56F6?style=for-the-badge)](https://omnibyte.tech)
