@@ -1,6 +1,6 @@
 ### Hello Humans 👋
 **Pronouns:** He/Him  
-I am Nathan, the Co-founder & Director at Omnibyte Technologies Limited.
+I am Nathan, the Founder & Lead Developer at Omnibyte Technologies Limited.
 
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -16,9 +16,10 @@ I am Nathan, the Co-founder & Director at Omnibyte Technologies Limited.
 [![Website](https://img.shields.io/badge/Omnibyte%20Website-7D56F6?style=for-the-badge)](https://omnibyte.tech)
 
 ### 🔭 I’m currently working on:
-- Prime Logistics' Drivers Hub (via Omnibyte Technologies Limited)
-- Prime Logistics' Discord Bot (via Omnibyte Technologies Limited)
+- Mogul® - Mogul is a specialist finance and insurance comparison platform designed for property investors, business owners, and entrepreneurs. https://mogulsearch.com
+- Kartify - Kartify is a platform for logging karting lap times, tracking performance across various tracks, and viewing progression for users. - https://kartify.live
 - TrackSim - Job Logging Solution for Euro Truck Simulator 2 & American Truck Simulator (via Omnibyte Technologies Limited)
+- Prime Logistics' Drivers Hub & Discord Bot (via Omnibyte Technologies Limited)
 - Planet Radio Discord Bot - Listen to your favourite Baurer Station directly in your Discord channel, from Hits Radio, Absolute Radio and KISS. [Invite Here](https://discord.com/api/oauth2/authorize?client_id=1192252199439454239&permissions=36718848&scope=bot)
 - Global Player Discord Bot - Listen to your favourite Global Station from Capital FM, Heart, Radio X and more. [Invite Here](https://discord.com/oauth2/authorize?client_id=833034729104080906&permissions=36718848&scope=bot)
 
